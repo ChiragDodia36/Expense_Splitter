@@ -68,31 +68,39 @@ A modern, intuitive Flutter application for splitting expenses among groups of f
 ### Group Details
 <!-- Add your group details screenshot here -->
 <p align="center">
-  <img src="screenshots/group_detail.png" alt="Group Details" width="250"/>
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/c27f3d94-b856-4a13-b6c8-b9c435fc39b7" />
+</p>
+<p align="center">
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/5d473780-794c-4ef2-9e15-a16df3f4cf82" />
 </p>
 
 ### Add Expense
 <!-- Add your add expense screenshot here -->
 <p align="center">
-  <img src="screenshots/add_expense.png" alt="Add Expense" width="250"/>
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/6c544c33-0361-4264-b08a-428170d9870b" />
 </p>
 
 ### Balance Summary
 <!-- Add your balance summary screenshot here -->
 <p align="center">
-  <img src="screenshots/balance_summary.png" alt="Balance Summary" width="250"/>
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/e1f3dd73-2c8d-428a-a3e6-c21683f88950" />
 </p>
 
 ### Settlement View
 <!-- Add your settlement view screenshot here -->
 <p align="center">
-  <img src="screenshots/settlement_view.png" alt="Settlement View" width="250"/>
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/8ca08b50-426d-45d3-8e21-f52e296b0691" />
 </p>
 
 ### Overall Balance
 <!-- Add your overall balance screenshot here -->
 <p align="center">
-  <img src="screenshots/overall_balance.png" alt="Overall Balance" width="250"/>
+<img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/0ac65d70-5155-403f-869c-2a350a3482cf" />
+</p>
+
+### Pdf Version of the Split Group
+<p alig="center">
+  <img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/fd13b4ad-5513-4e48-b6a3-10ceae87b8c4" />
 </p>
 
 > **Note:** To add screenshots, create a `screenshots` folder in the root directory and place your images there. Update the image paths accordingly.
